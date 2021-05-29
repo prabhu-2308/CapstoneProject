@@ -1,2 +1,2 @@
-# CapstoneProject
-Contains the Final Year website Project
+# prabhu-2308.github.io
+ Contains the capstone Project
